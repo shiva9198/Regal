@@ -1,0 +1,1077 @@
+[
+    {
+        "subject": "Reserve Bank of India",
+        "predicate": "is located in",
+        "object": "Mumbai 400 001"
+    },
+    {
+        "subject": "Reserve Bank of India",
+        "predicate": "issued",
+        "object": "No. FEMA 400/2022-RB"
+    },
+    {
+        "subject": "No. FEMA 400/2022-RB",
+        "predicate": "is dated",
+        "object": "August 22, 2022"
+    },
+    {
+        "subject": "Reserve Bank of India",
+        "predicate": "exercises powers conferred by",
+        "object": "sub -section (1) and clause (a) of sub -section (2) of section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999)"
+    },
+    {
+        "subject": "Reserve Bank of India",
+        "predicate": "makes",
+        "object": "Foreign Exchange Management (Overseas Investment) Regulations, 2022"
+    },
+    {
+        "subject": "These regulations",
+        "predicate": "may be called",
+        "object": "the Foreign Exchange Management (Overasas Investment) Regulations, 2022"
+    },
+    {
+        "subject": "They",
+        "predicate": "shall come into force on",
+        "object": "the date of their publication in the Official Gazette"
+    },
+    {
+        "subject": "Act",
+        "predicate": "means",
+        "object": "the Foreign Exchange Management Act, 1999 (42 of 1999)"
+    },
+    {
+        "subject": "debt instruments",
+        "predicate": "have the same meaning as assigned to it in",
+        "object": "the Foreign Exchange Management (Overseas Investment) Rules, 2022"
+    },
+    {
+        "subject": "The words and expressions used but not defined in these regulations",
+        "predicate": "shall have the meanings respectively assigned to them in",
+        "object": "the Act or the Foreign Exchange Management (Overseas Investment) Rules, 2022"
+    },
+    {
+        "subject": "Financial commitment by Indian entity by modes other than equity capital",
+        "predicate": "is related to",
+        "object": "The Indian entity"
+    },
+    {
+        "subject": "Indian entity",
+        "predicate": "may lend or invest in",
+        "object": "any debt instrument issued by a foreign entity"
+    },
+    {
+        "subject": "Indian entity",
+        "predicate": "may extend",
+        "object": "non-fund based commitment to or on behalf of a foreign entity"
+    },
+    {
+        "subject": "Indian entity",
+        "predicate": "may extend",
+        "object": "non-fund based commitment to overseas step down subsidiaries of such Indian entity"
+    },
+    {
+        "subject": "Indian entity",
+        "predicate": "is subject to",
+        "object": "the following conditions within the financial commitment limit as prescribed in the Foreign Exchange Management (Overseas Investment) Rules, 2022"
+    },
+    {
+        "subject": "Indian entity",
+        "predicate": "is eligible to make",
+        "object": "Overseas Direct Investment (ODI)"
+    },
+    {
+        "subject": "the Indian entity",
+        "predicate": "has made",
+        "object": "ODI in the foreign entity"
+    },
+    {
+        "subject": "the Indian entity",
+        "predicate": "has acquired",
+        "object": "control in such foreign entity"
+    },
+    {
+        "subject": "The financial commitments",
+        "predicate": "shall be reckoned towards",
+        "object": "the financial commitment limit"
+    },
+    {
+        "subject": "An Indian entity",
+        "predicate": "may lend or invest in",
+        "object": "debt instruments issued by a foreign entity"
+    },
+    {
+        "subject": "Such loans",
+        "predicate": "are backed by",
+        "object": "a loan agreement"
+    },
+    {
+        "subject": "The rate of interest",
+        "predicate": "shall be charged on",
+        "object": "an arm's length basis"
+    },
+    {
+        "subject": "transaction",
+        "predicate": "is between",
+        "object": "two related parties"
+    },
+    {
+        "subject": "transaction",
+        "predicate": "is conducted as if",
+        "object": "they were unrelated"
+    },
+    {
+        "subject": "transaction",
+        "predicate": "prevents",
+        "object": "conflict of interest"
+    },
+    {
+        "subject": "Financial commitment",
+        "predicate": "may be issued to or on behalf of",
+        "object": "the foreign entity"
+    },
+    {
+        "subject": "Financial commitment",
+        "predicate": "may be issued to or on behalf of",
+        "object": "any of its step down subsidiary"
+    },
+    {
+        "subject": "Indian entity",
+        "predicate": "has acquired control through",
+        "object": "the foreign entity"
+    },
+    {
+        "subject": "corporate or performance guarantee",
+        "predicate": "may be issued by",
+        "object": "such Indian entity"
+    },
+    {
+        "subject": "corporate or performance guarantee",
+        "predicate": "is by",
+        "object": "a group company of such Indian entity in India"
+    },
+    {
+        "subject": "group company",
+        "predicate": "is",
+        "object": "a holding company"
+    },
+    {
+        "subject": "holding company",
+        "predicate": "holds",
+        "object": "at least 51 per cent. stake in the Indian entity"
+    },
+    {
+        "subject": "group company",
+        "predicate": "is",
+        "object": "a subsidiary company"
+    },
+    {
+        "subject": "subsidiary company",
+        "predicate": "is in which",
+        "object": "the Indian entity holds at least 51 per cent. stake"
+    },
+    {
+        "subject": "group company",
+        "predicate": "is",
+        "object": "a promoter group company"
+    },
+    {
+        "subject": "promoter group company",
+        "predicate": "is",
+        "object": "a body corporate"
+    },
+    {
+        "subject": "personal guarantee",
+        "predicate": "is by",
+        "object": "the resident individual promoter of such an Indian entity"
+    },
+    {
+        "subject": "bank guarantee",
+        "predicate": "is backed by",
+        "object": "a counter -guarantee or collateral by the Indian entity or its group company"
+    },
+    {
+        "subject": "bank guarantee",
+        "predicate": "is issued by",
+        "object": "a bank in India"
+    },
+    {
+        "subject": "guarantee",
+        "predicate": "is extended by",
+        "object": "a group company"
+    },
+    {
+        "subject": "guarantee",
+        "predicate": "shall be counted towards",
+        "object": "the utilisation of its financial commitment limit independently"
+    },
+    {
+        "subject": "guarantee",
+        "predicate": "shall be counted towards",
+        "object": "the financial commitment limit of the Indian entity"
+    },
+    {
+        "subject": "commitment under sub-regulation (1)",
+        "predicate": "is extended by",
+        "object": "group company"
+    },
+    {
+        "subject": "fund-based exposure",
+        "predicate": "is deducted from",
+        "object": "net worth of group company"
+    },
+    {
+        "subject": "guarantee under sub-regulation (1)",
+        "predicate": "is extended by",
+        "object": "promoter"
+    },
+    {
+        "subject": "Indian entity",
+        "predicate": "shall be a part of",
+        "object": "promoter group"
+    },
+    {
+        "subject": "the expression \u201cpromoter group\u201d",
+        "predicate": "shall have the meaning as assigned to it in",
+        "object": "the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations 2018"
+    },
+    {
+        "subject": "No guarantee",
+        "predicate": "shall be",
+        "object": "open-ended"
+    },
+    {
+        "subject": "The guarantee",
+        "predicate": "shall cease to be a part of",
+        "object": "the non- fund based commitment"
+    },
+    {
+        "subject": "The guarantee",
+        "predicate": "be considered as",
+        "object": "lending"
+    },
+    {
+        "subject": "a guarantee",
+        "predicate": "has been extended jointly and severally by",
+        "object": "two or more Indian entities"
+    },
+    {
+        "subject": "100 per cent. of the amount of such guarantee",
+        "predicate": "shall be reckoned towards",
+        "object": "the individual limits of each of such Indian entities"
+    },
+    {
+        "subject": "In case of performance guarantee",
+        "predicate": "50 per cent. of the amount of guarantee shall be reckoned towards",
+        "object": "the financial commitment limit"
+    },
+    {
+        "subject": "Roll-over of guarantee",
+        "predicate": "shall not be treated as",
+        "object": "fresh financial commitment"
+    },
+    {
+        "subject": "Roll-over of guarantee",
+        "predicate": "does not exceed",
+        "object": "the amount of original guarantee"
+    },
+    {
+        "subject": "Indian entity",
+        "predicate": "has made",
+        "object": "ODI"
+    },
+    {
+        "subject": "Indian entity",
+        "predicate": "may pledge",
+        "object": "the equity capital of the foreign entity"
+    },
+    {
+        "subject": "Indian entity",
+        "predicate": "has made",
+        "object": "investment in equity capital in a foreign entity"
+    },
+    {
+        "subject": "subsidiary outside India",
+        "predicate": "held directly by",
+        "object": "the Indian entity"
+    },
+    {
+        "subject": "Indian entity",
+        "predicate": "held indirectly in",
+        "object": "step down subsidiary"
+    },
+    {
+        "subject": "step down subsidiary",
+        "predicate": "in favour of",
+        "object": "AD bank"
+    },
+    {
+        "subject": "step down subsidiary",
+        "predicate": "in favour of",
+        "object": "public financial institution in India"
+    },
+    {
+        "subject": "step down subsidiary",
+        "predicate": "in favour of",
+        "object": "overseas lender"
+    },
+    {
+        "subject": "step down subsidiary",
+        "predicate": "for availing",
+        "object": "fund based facilities"
+    },
+    {
+        "subject": "step down subsidiary",
+        "predicate": "for availing",
+        "object": "non-fund based facilities"
+    },
+    {
+        "subject": "step down subsidiary",
+        "predicate": "in favour of",
+        "object": "debenture trustee registered with SEBI"
+    },
+    {
+        "subject": "debenture trustee registered with SEBI",
+        "predicate": "for availing",
+        "object": "fund based facilities"
+    },
+    {
+        "subject": "it",
+        "predicate": "create charge by way of mortgage, pledge, hypothecation or any other identical mode on",
+        "object": "its assets in India"
+    },
+    {
+        "subject": "it",
+        "predicate": "create charge by way of mortgage, pledge, hypothecation or any other identical mode on",
+        "object": "the assets of its group company"
+    },
+    {
+        "subject": "it",
+        "predicate": "create charge by way of mortgage, pledge, hypothecation or any other identical mode on",
+        "object": "associate company"
+    },
+    {
+        "subject": "it",
+        "predicate": "create charge by way of mortgage, pledge, hypothecation or any other identical mode on",
+        "object": "promoter"
+    },
+    {
+        "subject": "it",
+        "predicate": "create charge by way of mortgage, pledge, hypothecation or any other identical mode on",
+        "object": "director"
+    },
+    {
+        "subject": "it",
+        "predicate": "create charge by way of mortgage, pledge, hypothecation or any other identical mode on",
+        "object": "assets in favour of an AD bank"
+    },
+    {
+        "subject": "it",
+        "predicate": "create charge by way of mortgage, pledge, hypothecation or any other identical mode on",
+        "object": "public financial institution in India"
+    },
+    {
+        "subject": "it",
+        "predicate": "create charge by way of mortgage, pledge, hypothecation or any other identical mode on",
+        "object": "overseas lender"
+    },
+    {
+        "subject": "it",
+        "predicate": "create charge by way of mortgage, pledge, hypothecation or any other identical mode on",
+        "object": "security for availing of the fund based or non- fund based facility"
+    },
+    {
+        "subject": "it",
+        "predicate": "create charge by way of mortgage, pledge, hypothecation or any other identical mode on",
+        "object": "any foreign entity in which it has made ODI"
+    },
+    {
+        "subject": "it",
+        "predicate": "create charge by way of mortgage, pledge, hypothecation or any other identical mode on",
+        "object": "its step down subsidiary outside India"
+    },
+    {
+        "subject": "the assets outside India of the foreign entity",
+        "predicate": "has made",
+        "object": "ODI"
+    },
+    {
+        "subject": "the assets outside India of the foreign entity",
+        "predicate": "has made",
+        "object": "step down subsidiary outside India"
+    },
+    {
+        "subject": "the assets outside India of the foreign entity",
+        "predicate": "in favour of",
+        "object": "an AD bank in India"
+    },
+    {
+        "subject": "the assets outside India of the foreign entity",
+        "predicate": "in favour of",
+        "object": "a public financial institution in India"
+    },
+    {
+        "subject": "the assets outside India of the foreign entity",
+        "predicate": "used as security for",
+        "object": "the fund based or non -fund based facility"
+    },
+    {
+        "subject": "the assets outside India of the foreign entity",
+        "predicate": "used as security for",
+        "object": "itself"
+    },
+    {
+        "subject": "the assets outside India of the foreign entity",
+        "predicate": "used as security for",
+        "object": "any foreign entity in which it has made ODI"
+    },
+    {
+        "subject": "the assets outside India of the foreign entity",
+        "predicate": "used as security for",
+        "object": "its step down subsidiary outside India"
+    },
+    {
+        "subject": "the assets outside India of the foreign entity",
+        "predicate": "in favour of",
+        "object": "a debenture trustee registered with SEBI in India"
+    },
+    {
+        "subject": "the assets outside India of the foreign entity",
+        "predicate": "used for",
+        "object": "availing fund based facilities"
+    },
+    {
+        "subject": "the value of the pledge or charge or the amount of the facility",
+        "predicate": "shall be reckoned towards",
+        "object": "the financial commitment limit in force at the time of such pledge or charge"
+    },
+    {
+        "subject": "overseas lender",
+        "predicate": "shall not be from",
+        "object": "any"
+    },
+    {
+        "subject": "country or jurisdiction",
+        "predicate": "is not permissible under",
+        "object": "the Foreign Exchange Management (Overseas Investment) Rules, 2022"
+    },
+    {
+        "subject": "the creation or enforcement of such pledge or charge",
+        "predicate": "shall be in accordance with",
+        "object": "the provisions of the Act or rules or regulations made or directions issued thereunder"
+    },
+    {
+        "subject": "the expression 'public financial institution'",
+        "predicate": "shall have",
+        "object": "the same meaning as assigned to it"
+    },
+    {
+        "subject": "clause (72) of section 2",
+        "predicate": "is under",
+        "object": "the Companies Act, 2013 (18 of 2013)"
+    },
+    {
+        "subject": "the negative pledge or negative charge",
+        "predicate": "created by",
+        "object": "an Indian entity or a bid bond guarantee"
+    },
+    {
+        "subject": "the negative pledge or negative charge",
+        "predicate": "obtained in accordance with",
+        "object": "these regulations"
+    },
+    {
+        "subject": "the negative pledge or negative charge",
+        "predicate": "participation in",
+        "object": "a bidding or tender procedure"
+    },
+    {
+        "subject": "the negative pledge or negative charge",
+        "predicate": "shall not be reckoned towards",
+        "object": "the financial commitment limit"
+    },
+    {
+        "subject": "Acquisition or transfer",
+        "predicate": "by way of",
+        "object": "deferred payment"
+    },
+    {
+        "subject": "a person",
+        "predicate": "resident in",
+        "object": "India"
+    },
+    {
+        "subject": "person resident outside India",
+        "predicate": "acquires equity capital",
+        "object": "by way of subscription to an issue"
+    },
+    {
+        "subject": "person resident outside India",
+        "predicate": "acquires equity capital",
+        "object": "by way of purchase from a person resident outside India"
+    },
+    {
+        "subject": "person resident outside India",
+        "predicate": "acquires equity capital",
+        "object": "from a person resident in India"
+    },
+    {
+        "subject": "equity capital",
+        "predicate": "is reckoned as",
+        "object": "ODI"
+    },
+    {
+        "subject": "payment of amount of consideration",
+        "predicate": "may be deferred for",
+        "object": "such definite period from the date of the"
+    },
+    {
+        "subject": "the foreign securities equivalent",
+        "predicate": "be transferred or issued",
+        "object": "upfront by the seller to the buyer"
+    },
+    {
+        "subject": "the full consideration",
+        "predicate": "be compliant with",
+        "object": "the applicable pricing guidelines"
+    },
+    {
+        "subject": "the deferred part of the consideration",
+        "predicate": "be in case of",
+        "object": "acquisition of equity capital"
+    },
+    {
+        "subject": "foreign entity",
+        "predicate": "be treated by",
+        "object": "a person resident in India"
+    },
+    {
+        "subject": "buyer",
+        "predicate": "may be indemnified by",
+        "object": "the seller"
+    },
+    {
+        "subject": "agreement",
+        "predicate": "is in compliance with",
+        "object": "the provisions of the Act"
+    },
+    {
+        "subject": "agreement",
+        "predicate": "is in compliance with",
+        "object": "the rules and regulations made thereunder"
+    },
+    {
+        "subject": "A person resident in India making Overseas Investment",
+        "predicate": "may make payment",
+        "object": "by remittance made through banking channels"
+    },
+    {
+        "subject": "A person resident in India making Overseas Investment",
+        "predicate": "may make payment",
+        "object": "from funds held in an account maintained in accordance with the provisions of the Act"
+    },
+    {
+        "subject": "A person resident in India making Overseas Investment",
+        "predicate": "may make payment",
+        "object": "by swap of securities"
+    },
+    {
+        "subject": "A person resident in India making Overseas Investment",
+        "predicate": "may make payment",
+        "object": "by using the proceeds of American Depository Receipts or Global Depositary Receipts or stock"
+    },
+    {
+        "subject": "swap",
+        "predicate": "raised in accordance with",
+        "object": "provisions of the Act and the rules and regulations"
+    },
+    {
+        "subject": "Indian entity",
+        "predicate": "making",
+        "object": "ODI or financial commitment by way of debt"
+    },
+    {
+        "subject": "person resident in India",
+        "predicate": "acquiring",
+        "object": "equity capital in a foreign entity"
+    },
+    {
+        "subject": "equity capital in a foreign entity",
+        "predicate": "is reckoned as",
+        "object": "ODI"
+    },
+    {
+        "subject": "person resident in India",
+        "predicate": "submit to",
+        "object": "the AD bank share certificates or any other"
+    },
+    {
+        "subject": "relevant documents",
+        "predicate": "as per",
+        "object": "the applicable laws of the host country or the host jurisdiction"
+    },
+    {
+        "subject": "such investment",
+        "predicate": "in",
+        "object": "the foreign entity"
+    },
+    {
+        "subject": "such investment",
+        "predicate": "within",
+        "object": "six months from the date of effecting remittance or the date on which the dues to such person are capitalised or the date on which the amount due was allowed to be capitalised"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "shall obtain",
+        "object": "a Unique Identification Number or UIN from the Reserve Bank"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "shall obtain",
+        "object": "UIN for the foreign entity"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "intends to make",
+        "object": "ODI"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "shall send",
+        "object": "outward remittance or acquisition of equity capital in a foreign entity"
+    },
+    {
+        "subject": "A person resident in India making ODI",
+        "predicate": "shall designate",
+        "object": "an AD bank"
+    },
+    {
+        "subject": "A person resident in India making ODI",
+        "predicate": "shall route",
+        "object": "all transactions relating to a particular UIN through such AD"
+    },
+    {
+        "subject": "more than one person resident in India",
+        "predicate": "makes",
+        "object": "financial commitment in the same foreign entity"
+    },
+    {
+        "subject": "all such persons",
+        "predicate": "shall route",
+        "object": "all transactions relating to that UIN through the AD bank designated for that UIN"
+    },
+    {
+        "subject": "A person resident in India having ODI in a foreign entity",
+        "predicate": "shall realise and repatriate to India",
+        "object": "all dues receivable from the foreign entity with respect to investment in such foreign"
+    },
+    {
+        "subject": "entity",
+        "predicate": "received",
+        "object": "consideration on account of transfer or disinvestment of ODI"
+    },
+    {
+        "subject": "entity",
+        "predicate": "realises",
+        "object": "net value of the assets on account of the liquidation of the foreign entity"
+    },
+    {
+        "subject": "entity",
+        "predicate": "follows",
+        "object": "laws of the host country or the host jurisdiction"
+    },
+    {
+        "subject": "entity",
+        "predicate": "has to do it within",
+        "object": "ninety days from the date when such receivables fall due or the date of such transfer or disinvestment or the date of the actual distribution of assets"
+    },
+    {
+        "subject": "assets",
+        "predicate": "made by",
+        "object": "the official liquidator"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "is eligible to make",
+        "object": "ODI"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "may make remittance towards",
+        "object": "earnest money deposit"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "may obtain",
+        "object": "a bid bond guarantee from an AD bank"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "may participate in",
+        "object": "bidding or tender procedure for the acquisition of a foreign entity"
+    },
+    {
+        "subject": "An open-ended bid bond guarantee",
+        "predicate": "shall be converted into",
+        "object": "a close-ended guarantee"
+    },
+    {
+        "subject": "Conversion of open-ended bid bond guarantee into close-ended guarantee",
+        "predicate": "should not be later than",
+        "object": "three months from the date of award of the contract"
+    },
+    {
+        "subject": "Reporting requirements",
+        "predicate": "is for",
+        "object": "Overseas Investment"
+    },
+    {
+        "subject": "a person resident in India",
+        "predicate": "shall make all reporting",
+        "object": "through the designated AD bank"
+    },
+    {
+        "subject": "reporting",
+        "predicate": "is in",
+        "object": "the manner provided in this regulation"
+    },
+    {
+        "subject": "reporting",
+        "predicate": "is in",
+        "object": "the format provided by the Reserve Bank"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "has made",
+        "object": "ODI"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "is making",
+        "object": "financial commitment"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "is undertaking",
+        "object": "disinvestment in a foreign entity"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "shall report",
+        "object": "the following"
+    },
+    {
+        "subject": "financial commitment",
+        "predicate": "is reckoned towards",
+        "object": "the financial commitment limit"
+    },
+    {
+        "subject": "person resident in India",
+        "predicate": "making",
+        "object": "Overseas Portfolio Investment"
+    },
+    {
+        "subject": "disinvestment",
+        "predicate": "within",
+        "object": "thirty days of receipt of disinvestment proceeds"
+    },
+    {
+        "subject": "restructuring",
+        "predicate": "within",
+        "object": "thirty days from the date of such restructuring"
+    },
+    {
+        "subject": "OPI",
+        "predicate": "report",
+        "object": "investment or transfer of investment within sixty days"
+    },
+    {
+        "subject": "OPI",
+        "predicate": "report",
+        "object": "transfer by way of sale"
+    },
+    {
+        "subject": "OPI",
+        "predicate": "made",
+        "object": "investment or transfer as of September or March-end"
+    },
+    {
+        "subject": "office in India",
+        "predicate": "do",
+        "object": "reporting in case of OPI by way of acquisition of shares or interest under Employee Stock Ownership Plan or Employee Benefits Scheme"
+    },
+    {
+        "subject": "branch of an overseas entity",
+        "predicate": "is in",
+        "object": "India"
+    },
+    {
+        "subject": "subsidiary in India",
+        "predicate": "is of",
+        "object": "an overseas entity"
+    },
+    {
+        "subject": "the Indian entity",
+        "predicate": "has",
+        "object": "direct or indirect equity holding"
+    },
+    {
+        "subject": "resident individual",
+        "predicate": "is",
+        "object": "an employee or director"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "acquiring",
+        "object": "equity capital in a foreign entity"
+    },
+    {
+        "subject": "equity capital in a foreign entity",
+        "predicate": "is reckoned as",
+        "object": "ODI"
+    },
+    {
+        "subject": "person resident in India",
+        "predicate": "shall submit",
+        "object": "an Annual Performance Report"
+    },
+    {
+        "subject": "Annual Performance Report",
+        "predicate": "is with respect to",
+        "object": "each foreign entity"
+    },
+    {
+        "subject": "Annual Performance Report",
+        "predicate": "is submitted every year by",
+        "object": "31st"
+    },
+    {
+        "subject": "foreign entity",
+        "predicate": "ends accounting year on",
+        "object": "31st December"
+    },
+    {
+        "subject": "APR",
+        "predicate": "shall be submitted by",
+        "object": "31st December of the next year"
+    },
+    {
+        "subject": "person resident in India",
+        "predicate": "is holding less than",
+        "object": "10 per cent of the equity capital"
+    },
+    {
+        "subject": "person resident in India",
+        "predicate": "has no other financial commitment other than",
+        "object": "equity capital"
+    },
+    {
+        "subject": "foreign entity",
+        "predicate": "is under",
+        "object": "liquidation"
+    },
+    {
+        "subject": "the APR",
+        "predicate": "shall be based on",
+        "object": "the audited financial statements of the foreign entity"
+    },
+    {
+        "subject": "the person resident in India",
+        "predicate": "does not have",
+        "object": "control in the foreign entity"
+    },
+    {
+        "subject": "the laws of the host country or host jurisdiction",
+        "predicate": "do not provide for",
+        "object": "mandatory auditing of the books of accounts"
+    },
+    {
+        "subject": "the APR",
+        "predicate": "may be submitted based on",
+        "object": "unaudited financial statements"
+    },
+    {
+        "subject": "statutory auditor",
+        "predicate": "certified",
+        "object": "Indian entity"
+    },
+    {
+        "subject": "chartered accountant",
+        "predicate": "certified",
+        "object": "Indian entity"
+    },
+    {
+        "subject": "person",
+        "predicate": "made",
+        "object": "ODI"
+    },
+    {
+        "subject": "person",
+        "predicate": "holding",
+        "object": "highest stake in the foreign entity"
+    },
+    {
+        "subject": "person",
+        "predicate": "required",
+        "object": "to submit APR"
+    },
+    {
+        "subject": "holdings",
+        "predicate": "being",
+        "object": "equal"
+    },
+    {
+        "subject": "APR",
+        "predicate": "may be filed jointly by",
+        "object": "such persons"
+    },
+    {
+        "subject": "the person resident in India",
+        "predicate": "shall report",
+        "object": "the details regarding acquisition or setting up or winding up or transfer of a step down subsidiary or alteration in the shareholding pattern in the foreign entity during the reporting year in the APR"
+    },
+    {
+        "subject": "An Indian entity",
+        "predicate": "has made",
+        "object": "ODI"
+    },
+    {
+        "subject": "An Indian entity",
+        "predicate": "shall submit",
+        "object": "an Annual Return on Foreign Liabilities and Assets"
+    },
+    {
+        "subject": "the Reserve Bank",
+        "predicate": "may decide",
+        "object": "such time"
+    },
+    {
+        "subject": "An Indian entity",
+        "predicate": "submit to",
+        "object": "the Department of"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "does not submit",
+        "object": "the evidence of investment within the time specified under sub -regulation (1) of regulation 9"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "does not make",
+        "object": "any filing within the time specified under regulation 10"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "may make",
+        "object": "such submission or filing"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "may make",
+        "object": "Late Submission Fee within such period"
+    },
+    {
+        "subject": "Late Submission Fee",
+        "predicate": "may be advised",
+        "object": "at the rates and in the manner"
+    },
+    {
+        "subject": "facility",
+        "predicate": "can be availed within",
+        "object": "a maximum period of three years"
+    },
+    {
+        "subject": "facility",
+        "predicate": "be directed by",
+        "object": "the Reserve Bank"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "is responsible for",
+        "object": "submitting the evidence or any filing relating to overseas investment"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "is responsible for",
+        "object": "submitting in accordance with the Act or regulations made thereunder before the date of publication of these regulations"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "has not made or does not make",
+        "object": "such submission or filing within the time specified thereunder"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "may make",
+        "object": "such submission or filing along with Late"
+    },
+    {
+        "subject": "Submission Fee",
+        "predicate": "done within period",
+        "object": "advised"
+    },
+    {
+        "subject": "Submission Fee",
+        "predicate": "done at rates",
+        "object": "directed by the Reserve Bank"
+    },
+    {
+        "subject": "Submission Fee",
+        "predicate": "done in manner",
+        "object": "directed by the Reserve Bank"
+    },
+    {
+        "subject": "facility",
+        "predicate": "can be availed within",
+        "object": "maximum period of three years"
+    },
+    {
+        "subject": "regulations",
+        "predicate": "published in",
+        "object": "Official Gazette"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "has made",
+        "object": "a financial commitment in a foreign entity"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "shall not make",
+        "object": "any further financial commitment"
+    },
+    {
+        "subject": "A person resident in India",
+        "predicate": "shall not make",
+        "object": "any transfer such investment"
+    },
+    {
+        "subject": "Ajay Kumar Misra",
+        "predicate": "is",
+        "object": "Chief General Manager-in-Charge"
+    },
+    {
+        "subject": "Chief General Manager-in-Charge",
+        "predicate": "Published in",
+        "object": "the Official Gazette of Government of India"
+    },
+    {
+        "subject": "Official Gazette",
+        "predicate": "is of",
+        "object": "Government of India"
+    },
+    {
+        "subject": "Official Gazette",
+        "predicate": "is",
+        "object": "Extraordinary \u2013 Part-III, Section 4"
+    },
+    {
+        "subject": "Official Gazette",
+        "predicate": "has",
+        "object": "Gazette ID CG-MH-E-22082022-238242"
+    },
+    {
+        "subject": "Gazette ID CG-MH-E-22082022-238242",
+        "predicate": "dated",
+        "object": "August 22, 2022"
+    }
+]

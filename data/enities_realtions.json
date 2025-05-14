@@ -1,0 +1,198 @@
+{
+  "entities": [
+    {
+      "name": "foreign_exchange_management_act_1999",
+      "entity_type": "legislation",
+      "singular": true,
+      "description": "646(E).\u2014In exercise of the powers conferred by sub-section (1) and clauses (aa) and (ab) of sub-section (2) of section 46 and sub-section (3) of section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999) and in supersession of the Foreign Exchange Management (Transfer or Issue of Any Foreign Security) Regulations, 2004 and the Foreign Exchange Management (Acquisition and Transfer of Immovable Property Outside India) Regulations, 2015, except as respects things done or omitted to be done before such supersession, the Central Government hereby makes the following rules, namely:"
+    },
+    {
+      "name": "foreign_exchange_management_overseas_investment_rules_2022",
+      "entity_type": "regulation",
+      "singular": true,
+      "description": "Short title and commencement.\u2013 (1) These rules may be called the Foreign Exchange Management (Overseas Investment) Rules, 2022."
+    },
+    {
+      "name": "authorised_dealer_bank",
+      "entity_type": "organization",
+      "singular": true,
+      "description": "(b) \u201cAuthorised Dealer Category-I bank or \u201cAD bank\u201d means a person authorised as such under subsection (1) of section 10 of the Act and for the purposes of these rules, shall mean only the domestic branches of such AD bank;"
+    },
+    {
+      "name": "overseas_direct_investment",
+      "entity_type": "investment_type",
+      "singular": true,
+      "description": "(f) \u201cfinancial commitment\u201d means the aggregate amount of investment made by a person resident in India by way of Overseas Direct Investment, debt other than Overseas Portfolio Investment in a foreign entity or entities in which the Overseas Direct Investment is made and shall include the nonfund- based facilities extended by such person to or on behalf of such foreign entity or entities;"
+    },
+    {
+      "name": "overseas_portfolio_investment",
+      "entity_type": "investment_type",
+      "singular": true,
+      "description": "(f) \u201cfinancial commitment\u201d means the aggregate amount of investment made by a person resident in India by way of Overseas Direct Investment, debt other than Overseas Portfolio Investment in a foreign entity or entities in which the Overseas Direct Investment is made and shall include the nonfund- based facilities extended by such person to or on behalf of such foreign entity or entities;"
+    },
+    {
+      "name": "reserve_bank",
+      "entity_type": "organization",
+      "singular": true,
+      "description": "(g) \u201cfinancial service regulator\u201d means a financial service regulator established under any law in force in India and include the Reserve Bank, the Securities and Exchange Board of India, the Insurance Regulatory and Development Authority and the Pension Fund Regulatory and Development Authority;"
+    },
+    {
+      "name": "international_financial_services_centre",
+      "entity_type": "location",
+      "singular": true,
+      "description": "(h) \u201cforeign entity\u201d means an entity formed or registered or incorporated outside India, including International Financial Services Centre that has limited liability:"
+    },
+    {
+      "name": "strategic_sector",
+      "entity_type": "sector",
+      "singular": false,
+      "description": "Provided that the restriction of limited liability shall not apply to an entity with core activity in a strategic sector;"
+    }
+  ],
+  "relationships": [
+    {
+      "entity_1": "foreign_exchange_management_overseas_investment_rules_2022",
+      "entity_2": "foreign_exchange_management_act_1999",
+      "relationship_type": "framed_under",
+      "description": "Short title and commencement.\u2013 (1) These rules may be called the Foreign Exchange Management (Overseas Investment) Rules, 2022."
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "(g) \u201cfinancial service regulator\u201d means a financial service regulator established under any law in force in India and include the Reserve Bank, the Securities and Exchange Board of India, the Insurance Regulatory and Development Authority and the Pension Fund Regulatory and Development Authority;"
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "Administration of these rules.\u2013 (1) These rules shall be administered by the Reserve Bank."
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "(2) The Reserve Bank may issue such directions, circulars, instructions and clarifications as it may deem necessary for the effective implementation of the provisions of these rules."
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "(2) Notwithstanding anything contained in these rules or Foreign Exchange Management (Overseas Investment) Regulations 2022 \u2013 (i) the Central Government may, on an application made to it through the Reserve Bank, permit financial commitment in strategic sectors or geographies, above the limits laid down in these rules and subject to such terms and conditions as it considers necessary."
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "(ii) the Reserve Bank may, on an application made to it through the designated AD bank and for sufficient reasons, permit a person resident in India to make or transfer any investment or financial commitment outside India subject to such conditions as may be laid down by it:"
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "(3) The Reserve Bank, if it considers necessary may, in consultation with the Central Government,\u2013 (i) stipulate the ceiling for the aggregate outflows during a financial year on account of financial commitment or Overseas Portfolio Investment;"
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "and (c) dealing with financial products linked to the Indian rupee without specific approval of the Reserve Bank."
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "(b) a non-banking financial company as defined in clause (f) of section 45-I of the Reserve Bank of India Act, 1934 (2 of 1934) which is registered with the Reserve Bank and considered as systematically important non-banking financial company by the Reserve Bank;"
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "Requirements to be specified by Reserve Bank.\u2013 The mode of payment, deferred payment of consideration, reporting, realisation, and other requirements for any investment outside India by a person resident in India shall be as per the regulations made in this behalf by the Reserve Bank under the Act."
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "Restriction on acquisition or transfer of immovable property outside India.\u2013 (1) Save as otherwise provided in the Act or this rule, no person resident in India shall acquire or transfer any immovable property situated outside India without general or special permission of the Reserve Bank:"
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "(ii) acquired by a person resident in India on or before the 8th day of July, 1947 and continued to be held by such person with the permission of the Reserve Bank;"
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "(c) by way of purchase out of the remittances sent under the Liberalised Remittance Scheme instituted by the Reserve Bank:"
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "(iii) an Indian entity having an overseas office may acquire immovable property outside India for the business and residential purposes of its staff, as per the directions issued by the Reserve Bank from time to time;"
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "(b) create a charge on such property in accordance with the Act or the rules or regulations made thereunder or directions issued by the Reserve Bank from time to time."
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "(iv) capitalisation, within the time period, if any, specified for realisation under the Act, of any amount due towards the Indian entity from the foreign entity, the remittance of which is permitted under the Act or does not require prior permission of the Central Government or the Reserve Bank under the Act or any rules or regulations made or directions issued thereunder;"
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "Provided that such period may be extended by the Reserve Bank in consultation with the Central Government, as it may deem necessary:"
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "(4) Notwithstanding anything contained in this paragraph, Overseas Investment by banks and non-banking financial institutions regulated by the Reserve Bank shall be subject to the conditions laid down by the Reserve Bank under applicable laws in this regard."
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "Limit for financial commitment.\u2013 (1) The total financial commitment made by an Indian entity in all the foreign entities taken together at the time of undertaking such commitment shall not exceed 400 percent of its net worth as on the date of the last audited balance sheet or as directed by the Reserve Bank, in consultation with Central Government from time to time."
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "Manner of making OI.\u2013 (1) Any resident individual may make ODI by way of investment in equity capital or OPI in the manner provided in this Schedule and unless otherwise provided hereunder, shall be subject to the overall ceiling under the Liberalised Remittance Scheme of the Reserve Bank."
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "(iii) ODI or OPI, as the case may be, by way of\u2013 (a) capitalisation, within the time period, if any, specified for realisation under the Act, of any amount due from the foreign entity the remittance of which is permitted under the Act or does not require prior permission of the Central Government or the Reserve Bank;"
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "ODI by Registered Trust or Society.\u2013 Any person being a registered Trust or a registered Society engaged in the educational sector or which has set up hospitals in India may make ODI in a foreign entity with the prior approval of the Reserve Bank, subject to the following conditions, namely:\u2013 (i) the foreign entity is engaged in the same sector that the Indian Trust or Society is engaged in;"
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "OI by Mutual Funds or Venture Capital Funds or Alternative Investment Funds.\u2013 (1) A mutual fund or Venture Capital Fund or Alternative Investment Fund may acquire or transfer foreign securities as stipulated by SEBI from time to time in accordance with the provisions of these rules and subject to such other terms and conditions as may be laid down by the Reserve Bank and the SEBI under applicable laws from time to time:"
+    },
+    {
+      "entity_1": "reserve_bank",
+      "entity_2": "foreign_exchange_management_overseas_investment_rules_2022",
+      "relationship_type": "administers",
+      "description": "Provided that the aggregate limit for such investment shall be decided by the Reserve Bank in consultation with the Central Government:"
+    }
+  ]
+}
